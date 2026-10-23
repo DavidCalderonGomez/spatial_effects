@@ -1,0 +1,4 @@
+fraccion valida: 0.564014
+media    : 0.12434
+varianza : 0.0203222
+ruido (CV) : 1.1465
